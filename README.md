@@ -1,6 +1,6 @@
 # HoB-Curriculum
 
-## Lesson 1
+## Lesson 1 & 2
 
 HTML/CSS:
 
@@ -11,6 +11,5 @@ creating our first web page/document. By the end of the class, each
 student should be able to create a basic page and add styling to 
 that page.
 
-**Reference directory 'Lesson 1' for example pages**
+**Reference directory 'Lesson 1 and 2' for example pages**
 
-## Lesson 2
