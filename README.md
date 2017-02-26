@@ -37,7 +37,7 @@ the previous lessons to that repository.
 put all of your webpages into one repository with each one of you
 being collaborators
 
-## Leasson 4
+## Lesson 4
 
 Javascript p1:
 
@@ -69,3 +69,14 @@ and return how many times that letter occurs in that string
 ***Extra Credit*** Answer all 10 questions correctly.
 
 
+## Lesson 6
+
+Start up ideas:
+
+This lesson is a brainstorming session. The students will brainstorm what they want their
+applications to do. 
+
+### Homework
+
+After all the potential projects have been written, vote on which idea will be used
+for the main platform project for the next 2-3 months.
