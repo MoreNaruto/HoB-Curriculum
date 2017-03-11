@@ -68,6 +68,20 @@ and return how many times that letter occurs in that string
 
 ***Extra Credit*** Answer all 10 questions correctly.
 
+## Lesson 5
+
+[Prezi tutorial javascript p2](https://prezi.com/_izepv8c0ghh/javascript-p2/)
+
+This lesson introduces Objects and Arrays in javascript. Also, we're gonna
+show how we can extract data from each of these data types.
+
+
+### Homework *Put solutions on github*
+
+1. Create a Car Object with 5 or more properties and 2 methods
+2. Create an array of 3 car objects and print the last car in the array
+3. Take this array of integers [4, 3, 1, 14, 42, 42] and get the sum and product of 
+the values
 
 ## Lesson 6
 
